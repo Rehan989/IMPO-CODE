@@ -4,9 +4,9 @@ load_dotenv()
 
 LOG_PATH = os.path.join(os.getcwd(), "logs")
 
-SPEECH_KEY = os.getenv("SPEECH_KEY")
+SPEECH_KEY = "ab7f0c0c72b44c1e8726a6a086a3de04"
 
-SPEECH_REGION = os.getenv("SPEECH_REGION")
+SPEECH_REGION = "centralus"
 
 
 
